@@ -19,3 +19,4 @@ Olá, eu sou a Débora Pianezzer! 👩‍💻
 
  ![Snake animation](https://github.com/deborapianezzer/deborapianezzer/blob/output/github-contribution-grid-snake.svg)
 
+</div>
