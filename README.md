@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="[https://br.pinterest.com/pin/824158800538902436/](https://pin.it/785AuWI)">
+
 Oiê, eu sou a Débora!! 👩‍💻
 <div style="display: inline_block">
   <a href="https://github.com/deborapianezzer">
