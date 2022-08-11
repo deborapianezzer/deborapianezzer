@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" padding-rigth="20px" align="right" width="200px" src="https://pbs.twimg.com/media/D4JN8VTW4AQV13S.jpg">
+<img style="margin-top: 40px;" padding-rigth="20px" align="right" width="300px" src="https://cdn141.picsart.com/319407528053211.png">
 
 # Oiê!! 🐝 
 <div style="display: inline_block">
