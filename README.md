@@ -1,4 +1,5 @@
-Olá, eu sou a Débora Pianezzer! 👩‍💻
+<img style="margin-top: 40px;" align="right" width="400px" src="https://br.pinterest.com/pin/824158800538902436/">
+Oiê, eu sou a Débora!! 👩‍💻
 <div style="display: inline_block">
   <a href="https://github.com/deborapianezzer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborapianezzer&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
