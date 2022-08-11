@@ -25,3 +25,4 @@
  ![Snake animation](https://github.com/deborapianezzer/deborapianezzer/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
