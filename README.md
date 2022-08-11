@@ -1,3 +1,4 @@
+<img style="margin-top: 40px;" align="right" width="200px" src="https://pbs.twimg.com/media/D4JN8VTW4AQV13S.jpg">
 
 Oiê, eu sou a Débora!! 👩‍💻
 <div style="display: inline_block">
