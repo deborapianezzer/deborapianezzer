@@ -3,9 +3,9 @@
 # Oiê!! 🐝 
 <div style="display: inline_block">
   <a href="https://github.com/deborapianezzer">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=deborapianezzer&show_icons=true&include_all_commits=true&count_private=true&bg_color=DAA520&border_color=8B4513&border_radius=14&text_color=000000&title_color=8B4513&icon_color=000000"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=deborapianezzer&show_icons=true&include_all_commits=true&count_private=true&bg_color=F5D4B7&border_color=8B4513&border_radius=14&text_color=000000&title_color=8B4513&icon_color=000000"/>
   
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborapianezzer&layout=compact&langs_count=7&bg_color=DAA520&border_color=8B4513&border_radius=14&text_color=000000&title_color=8B4513&icon_color=000000"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborapianezzer&layout=compact&langs_count=7&bg_color=F5D4B7&border_color=8B4513&border_radius=14&text_color=000000&title_color=8B4513&icon_color=000000"/>
 
 </div>
 
