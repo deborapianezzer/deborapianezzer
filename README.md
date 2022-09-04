@@ -1,11 +1,10 @@
-<img style="margin-top: 40px;" padding-rigth="20px" align="right" width="300px" src="https://cdn141.picsart.com/319407528053211.png">
 
 # Oiê!! 🐝 
 <div style="display: inline_block">
   <a href="https://github.com/deborapianezzer">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=deborapianezzer&show_icons=true&include_all_commits=true&count_private=true&bg_color=F5D4B7&border_color=8B4513&border_radius=14&text_color=000000&title_color=8B4513&icon_color=000000"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=deborapianezzer&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&border_color=396B6A&border_radius=14&text_color=000000&title_color=146160&icon_color=2FE0DD"/>
   
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborapianezzer&layout=compact&langs_count=7&bg_color=F5D4B7&border_color=8B4513&border_radius=14&text_color=000000&title_color=8B4513&icon_color=000000"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborapianezzer&layout=compact&langs_count=7&bg_color=FFFFFF&border_color=396B6A&border_radius=14&text_color=000000&title_color=146160&icon_color=2FE0DD"/>
 
 </div>
 
