@@ -1,10 +1,13 @@
 
 <h1 style="text-align: center">Oiê!!</h1> 
 <div style="display: inline_block">
-  <a href="https://github.com/deborapianezzer">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=deborapianezzer&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&border_color=396B6A&border_radius=14&text_color=000000&title_color=146160&icon_color=2FE0DD"/>
   
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborapianezzer&layout=compact&langs_count=7&bg_color=FFFFFF&border_color=396B6A&border_radius=14&text_color=000000&title_color=146160&icon_color=2FE0DD"/>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deborapianezzer&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deborapianezzer&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deborapianezzer&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deborapianezzer&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=deborapianezzer&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
 
 </div>
 
